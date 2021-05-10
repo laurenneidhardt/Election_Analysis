@@ -10,4 +10,4 @@
 Python
 Resources.csv
 ## Summary
-![](.PNG)
+![Election_Results](https://github.com/laurenneidhardt/Election_Analysis/blob/main/Election_Results.PNG)
